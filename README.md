@@ -1,8 +1,8 @@
 # CQCET-COVID_SIGN
 重庆电子工程职业学院-疫情打卡脚本
 
-    麻烦点一下小星星哦！![01019E8F](https://user-images.githubusercontent.com/56808911/178416817-319188c5-8b08-470c-8c7e-205c36da0220.png)
-出现异常请提交issue，不会用的就找一下懂的朋友
+    麻烦点一下小星星哦！^*^
+    出现异常请提交issue，不会用的就找一下懂的朋友
 
 ## 运行环境配置
     请配置好Python环境，并安装request包
